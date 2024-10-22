@@ -1,0 +1,22 @@
+Titanic,Romance,James Cameron,12,1,195
+El Padrino,Drama,Francis Ford Coppola,18,2,175
+Inception,Ciencia Ficción,Christopher Nolan,13,3,148
+The Dark Knight,Acción,Christopher Nolan,13,4,152
+Forrest Gump,Drama,Robert Zemeckis,0,5,142
+The Matrix,Ciencia Ficción,Lana Wachowski y Lilly Wachowski,16,6,136
+Pulp Fiction,Crimen,Quentin Tarantino,18,7,154
+The Shawshank Redemption,Drama,Frank Darabont,15,8,142
+Fight Club,Drama,David Fincher,18,9,139
+The Lord of the Rings: El Retorno del Rey,Fantasía,Peter Jackson,12,10,201
+Gladiator,Acción,Ridley Scott,16,11,155
+Interstellar,Ciencia Ficción,Christopher Nolan,13,12,169
+The Godfather Part II,Drama,Francis Ford Coppola,18,13,202
+Schindler's List,Histórico,Steven Spielberg,16,14,195
+The Lion King,Animación,Roger Allers y Rob Minkoff,0,15,88
+Jurassic Park,Aventura,Steven Spielberg,12,16,127
+The Avengers,Acción,Joss Whedon,13,17,143
+Star Wars: Episodio IV - Una Nueva Esperanza,Ciencia Ficción,George Lucas,12,18,121
+The Silence of the Lambs,Terror,Jonathan Demme,18,19,118
+Saving Private Ryan,Guerra,Steven Spielberg,16,20,169
+Avatar,Ciencia Ficción,James Cameron,13,21,162
+Back to the Future,Ciencia Ficción,Bob Gale y Robert Zemeckis,0,22,116

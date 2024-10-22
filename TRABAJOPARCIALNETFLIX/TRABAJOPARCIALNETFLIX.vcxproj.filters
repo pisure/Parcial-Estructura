@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Archivos de origen">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Archivos de encabezado">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Archivos de recursos">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Archivos de encabezado\Perfiles">
+      <UniqueIdentifier>{df606883-0952-44ad-b178-24661ad94f4f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\Cliente">
+      <UniqueIdentifier>{b5109049-b79e-4d98-986c-5c84455dab46}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\Empleado">
+      <UniqueIdentifier>{67a75787-1b5a-4c4b-aa02-91c0a38d2baf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\Cuentas">
+      <UniqueIdentifier>{5e9ebc10-ce9b-41d8-8ff0-3e89357ad533}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\Estructuras">
+      <UniqueIdentifier>{e9491d10-9803-4f84-9e3f-51ded264fbb5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\Herramientas">
+      <UniqueIdentifier>{8f660339-390e-4a99-bcc3-165968839660}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="TRABAJOPARCIALNETFLIX.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Perfil.h">
+      <Filter>Archivos de encabezado\Perfiles</Filter>
+    </ClInclude>
+    <ClInclude Include="MiLista.h">
+      <Filter>Archivos de encabezado\Perfiles</Filter>
+    </ClInclude>
+    <ClInclude Include="Descargas.h">
+      <Filter>Archivos de encabezado\Perfiles</Filter>
+    </ClInclude>
+    <ClInclude Include="Visualizaciones.h">
+      <Filter>Archivos de encabezado\Perfiles</Filter>
+    </ClInclude>
+    <ClInclude Include="Reseña.h">
+      <Filter>Archivos de encabezado\Perfiles</Filter>
+    </ClInclude>
+    <ClInclude Include="Cliente.h">
+      <Filter>Archivos de encabezado\Cliente</Filter>
+    </ClInclude>
+    <ClInclude Include="MiPago.h">
+      <Filter>Archivos de encabezado\Cliente</Filter>
+    </ClInclude>
+    <ClInclude Include="Tarjeta.h">
+      <Filter>Archivos de encabezado\Cliente</Filter>
+    </ClInclude>
+    <ClInclude Include="Empleado.h">
+      <Filter>Archivos de encabezado\Empleado</Filter>
+    </ClInclude>
+    <ClInclude Include="Reporte.h">
+      <Filter>Archivos de encabezado\Empleado</Filter>
+    </ClInclude>
+    <ClInclude Include="Usuario.h">
+      <Filter>Archivos de encabezado\Cuentas</Filter>
+    </ClInclude>
+    <ClInclude Include="SolicitudPago.h">
+      <Filter>Archivos de encabezado\Cuentas</Filter>
+    </ClInclude>
+    <ClInclude Include="Cola.h">
+      <Filter>Archivos de encabezado\Estructuras</Filter>
+    </ClInclude>
+    <ClInclude Include="Lista.h">
+      <Filter>Archivos de encabezado\Estructuras</Filter>
+    </ClInclude>
+    <ClInclude Include="Nodo.h">
+      <Filter>Archivos de encabezado\Estructuras</Filter>
+    </ClInclude>
+    <ClInclude Include="menus.h">
+      <Filter>Archivos de encabezado\Herramientas</Filter>
+    </ClInclude>
+    <ClInclude Include="Tools.h">
+      <Filter>Archivos de encabezado\Herramientas</Filter>
+    </ClInclude>
+    <ClInclude Include="Contenido.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Pelicula.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Serie.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

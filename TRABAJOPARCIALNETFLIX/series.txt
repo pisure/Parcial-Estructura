@@ -1,0 +1,26 @@
+Breaking Bad,Drama,Vince Gilligan,18,1,50,5,62
+Game of Thrones,Fantasía,David Benioff,18,2,60,8,73
+Breaking Bad,Drama,Vince Gilligan,18,1,50,5,62
+Game of Thrones,Fantasía,David Benioff,18,2,60,8,73
+Friends,Comedia,David Crane,12,3,22,10,236
+Stranger Things,Ciencia Ficción,Matt Duffer y Ross Duffer,16,4,55,4,34
+The Mandalorian,Fantasía,Jon Favreau,12,5,40,3,24
+The Witcher,Fantasía,Lauren Schmidt Hissrich,18,6,60,3,24
+The Office,Comedia,Greg Daniels,12,7,22,9,201
+Sherlock,Misterio,Steven Moffat y Mark Gatiss,13,8,90,4,13
+Black Mirror,Ciencia Ficción,Charlie Brooker,18,9,60,6,22
+The Crown,Drama,Peter Morgan,16,10,50,5,50
+The Boys,Acción,Eric Kripke,18,11,60,3,24
+The Handmaid's Tale,Drama,Bruce Miller,18,12,50,5,56
+Narcos,Crimen,Chris Brancato,18,13,50,3,30
+House of Cards,Drama,Beau Willimon,18,14,50,6,73
+Peaky Blinders,Drama,Steven Knight,18,15,60,6,36
+Mindhunter,Misterio,Joe Penhall,18,16,55,2,19
+The Big Bang Theory,Comedia,Chuck Lorre y Bill Prady,12,17,22,12,279
+Westworld,Ciencia Ficción,Lisa Joy y Jonathan Nolan,16,18,60,4,36
+Rick and Morty,Animación,Dan Harmon y Justin Roiland,18,19,22,5,51
+True Detective,Misterio,Nic Pizzolatto,18,20,55,3,24
+Better Call Saul,Drama,Vince Gilligan y Peter Gould,18,21,55,6,63
+Fargo,Crimen,Noah Hawley,18,22,50,4,41
+Dark,Ciencia Ficción,Baran bo Odar y Jantje Friese,16,23,60,3,26
+Chernobyl,Histórico,Craig Mazin,18,24,60,1,5

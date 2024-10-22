@@ -1,0 +1,14 @@
+Laura
+S03553
+precio: 100.00
+Tarjeta
+01/01/2023
+0
+0
+CARLOS
+S5354
+200.00
+Tarjeta
+01/01/2023
+0
+1
